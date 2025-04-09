@@ -1,0 +1,3253 @@
+{
+  "kind": "calendar#events",
+  "summary": "ambvilladogna",
+  "description": "",
+  "updated": "2025-04-09T14:31:03.225Z",
+  "timeZone": "Europe/Rome",
+  "accessRole": "reader",
+  "defaultReminders": [],
+  "items": [
+    {
+      "summary": "Mostra delle morchelle",
+      "description": "La prima mostra di Primavera",
+      "location": "Rovetta, 24020 Rovetta BG, Italia",
+      "start": {
+        "date": "2025-04-09"
+      },
+      "end": {
+        "date": "2025-04-10"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-04-14T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-04-14T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "A caccia di Marzuoli",
+      "description": null,
+      "location": "Bossico, 24060 Bossico BG, Italia",
+      "start": {
+        "date": "2025-04-15"
+      },
+      "end": {
+        "date": "2025-04-16"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-04-21T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-04-21T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Gita di primavera",
+      "description": null,
+      "location": "Baite del Moschel",
+      "start": {
+        "date": "2025-04-24"
+      },
+      "end": {
+        "date": "2025-04-25"
+      }
+    },
+    {
+      "summary": "Il primo porcino",
+      "description": null,
+      "location": "Spiazzi di Gromo, Piazzale Avert, 7, 24020 Spiazzi BG, Italia",
+      "start": {
+        "date": "2025-04-26"
+      },
+      "end": {
+        "date": "2025-04-27"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-04-28T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-04-28T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-05-05T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-05-05T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-05-12T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-05-12T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-05-19T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-05-19T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-05-26T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-05-26T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-06-02T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-06-02T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-06-09T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-06-09T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-06-16T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-06-16T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-06-23T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-06-23T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-06-30T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-06-30T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-07-07T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-07-07T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-07-14T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-07-14T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-07-21T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-07-21T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-07-28T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-07-28T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-08-04T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-08-04T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-08-11T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-08-11T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-08-18T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-08-18T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-08-25T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-08-25T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-09-01T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-09-01T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-09-08T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-09-08T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-09-15T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-09-15T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-09-22T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-09-22T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-09-29T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-09-29T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-10-06T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-10-06T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-10-13T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-10-13T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-10-20T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-10-20T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-10-27T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-10-27T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-11-03T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-11-03T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-11-10T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-11-10T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-11-17T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-11-17T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-11-24T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-11-24T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-12-01T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-12-01T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-12-08T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-12-08T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-12-15T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-12-15T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-12-22T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-12-22T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2025-12-29T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2025-12-29T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-01-05T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-01-05T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-01-12T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-01-12T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-01-19T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-01-19T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-01-26T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-01-26T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-02-02T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-02-02T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-02-09T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-02-09T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-02-16T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-02-16T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-02-23T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-02-23T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-03-02T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-03-02T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-03-09T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-03-09T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-03-16T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-03-16T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-03-23T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-03-23T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-03-30T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-03-30T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-04-06T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-04-06T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-04-13T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-04-13T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-04-20T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-04-20T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-04-27T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-04-27T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-05-04T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-05-04T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-05-11T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-05-11T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-05-18T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-05-18T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-05-25T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-05-25T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-06-01T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-06-01T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-06-08T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-06-08T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-06-15T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-06-15T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-06-22T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-06-22T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-06-29T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-06-29T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-07-06T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-07-06T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-07-13T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-07-13T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-07-20T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-07-20T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-07-27T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-07-27T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-08-03T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-08-03T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-08-10T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-08-10T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-08-17T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-08-17T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-08-24T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-08-24T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-08-31T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-08-31T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-09-07T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-09-07T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-09-14T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-09-14T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-09-21T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-09-21T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-09-28T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-09-28T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-10-05T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-10-05T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-10-12T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-10-12T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-10-19T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-10-19T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-10-26T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-10-26T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-11-02T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-11-02T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-11-09T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-11-09T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-11-16T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-11-16T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-11-23T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-11-23T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-11-30T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-11-30T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-12-07T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-12-07T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-12-14T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-12-14T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-12-21T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-12-21T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2026-12-28T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2026-12-28T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-01-04T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-01-04T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-01-11T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-01-11T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-01-18T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-01-18T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-01-25T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-01-25T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-02-01T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-02-01T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-02-08T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-02-08T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-02-15T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-02-15T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-02-22T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-02-22T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-03-01T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-03-01T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-03-08T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-03-08T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-03-15T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-03-15T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-03-22T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-03-22T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-03-29T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-03-29T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-04-05T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-04-05T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-04-12T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-04-12T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-04-19T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-04-19T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-04-26T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-04-26T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-05-03T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-05-03T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-05-10T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-05-10T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-05-17T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-05-17T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-05-24T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-05-24T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-05-31T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-05-31T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-06-07T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-06-07T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-06-14T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-06-14T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-06-21T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-06-21T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-06-28T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-06-28T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-07-05T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-07-05T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-07-12T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-07-12T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-07-19T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-07-19T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-07-26T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-07-26T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-08-02T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-08-02T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-08-09T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-08-09T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-08-16T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-08-16T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-08-23T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-08-23T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-08-30T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-08-30T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-09-06T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-09-06T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-09-13T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-09-13T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-09-20T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-09-20T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-09-27T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-09-27T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-10-04T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-10-04T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-10-11T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-10-11T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-10-18T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-10-18T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-10-25T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-10-25T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-11-01T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-11-01T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-11-08T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-11-08T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-11-15T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-11-15T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-11-22T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-11-22T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-11-29T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-11-29T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-12-06T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-12-06T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-12-13T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-12-13T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-12-20T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-12-20T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2027-12-27T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2027-12-27T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-01-03T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-01-03T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-01-10T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-01-10T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-01-17T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-01-17T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-01-24T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-01-24T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-01-31T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-01-31T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-02-07T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-02-07T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-02-14T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-02-14T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-02-21T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-02-21T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-02-28T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-02-28T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-03-06T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-03-06T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-03-13T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-03-13T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-03-20T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-03-20T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-03-27T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-03-27T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-04-03T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-04-03T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-04-10T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-04-10T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-04-17T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-04-17T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-04-24T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-04-24T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-05-01T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-05-01T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-05-08T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-05-08T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-05-15T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-05-15T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-05-22T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-05-22T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-05-29T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-05-29T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-06-05T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-06-05T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-06-12T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-06-12T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-06-19T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-06-19T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-06-26T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-06-26T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-07-03T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-07-03T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-07-10T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-07-10T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-07-17T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-07-17T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-07-24T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-07-24T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-07-31T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-07-31T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-08-07T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-08-07T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-08-14T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-08-14T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-08-21T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-08-21T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-08-28T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-08-28T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-09-04T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-09-04T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-09-11T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-09-11T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-09-18T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-09-18T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-09-25T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-09-25T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-10-02T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-10-02T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-10-09T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-10-09T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-10-16T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-10-16T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-10-23T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-10-23T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-10-30T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-10-30T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-11-06T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-11-06T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-11-13T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-11-13T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-11-20T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-11-20T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-11-27T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-11-27T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-12-04T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-12-04T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-12-11T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-12-11T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-12-18T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-12-18T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2028-12-25T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2028-12-25T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-01-01T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-01-01T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-01-08T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-01-08T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-01-15T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-01-15T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-01-22T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-01-22T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-01-29T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-01-29T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-02-05T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-02-05T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-02-12T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-02-12T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-02-19T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-02-19T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-02-26T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-02-26T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-03-05T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-03-05T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-03-12T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-03-12T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-03-19T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-03-19T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-03-26T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-03-26T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-04-02T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-04-02T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-04-09T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-04-09T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-04-16T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-04-16T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-04-23T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-04-23T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-04-30T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-04-30T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-05-07T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-05-07T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-05-14T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-05-14T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-05-21T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-05-21T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-05-28T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-05-28T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-06-04T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-06-04T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-06-11T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-06-11T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-06-18T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-06-18T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-06-25T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-06-25T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-07-02T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-07-02T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-07-09T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-07-09T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-07-16T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-07-16T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-07-23T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-07-23T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-07-30T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-07-30T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-08-06T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-08-06T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-08-13T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-08-13T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-08-20T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-08-20T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-08-27T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-08-27T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-09-03T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-09-03T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-09-10T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-09-10T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-09-17T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-09-17T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-09-24T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-09-24T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-10-01T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-10-01T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-10-08T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-10-08T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-10-15T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-10-15T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-10-22T21:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-10-22T23:00:00+02:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-10-29T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-10-29T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-11-05T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-11-05T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-11-12T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-11-12T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-11-19T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-11-19T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-11-26T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-11-26T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-12-03T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-12-03T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-12-10T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-12-10T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-12-17T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-12-17T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    },
+    {
+      "summary": "Incontro settimanale",
+      "description": "descrizione",
+      "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
+      "start": {
+        "dateTime": "2029-12-24T21:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      },
+      "end": {
+        "dateTime": "2029-12-24T23:00:00+01:00",
+        "timeZone": "Europe/Rome"
+      }
+    }
+  ]
+}
