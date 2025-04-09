@@ -2,7 +2,7 @@
   "kind": "calendar#events",
   "summary": "ambvilladogna",
   "description": "",
-  "updated": "2025-04-09T14:31:03.225Z",
+  "updated": "2025-04-09T18:44:46.957Z",
   "timeZone": "Europe/Rome",
   "accessRole": "reader",
   "defaultReminders": [],
@@ -20,7 +20,7 @@
     },
     {
       "summary": "Incontro settimanale",
-      "description": "descrizione",
+      "description": "descrizione completa",
       "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
       "start": {
         "dateTime": "2025-04-14T21:00:00+02:00",
@@ -44,7 +44,7 @@
     },
     {
       "summary": "Incontro settimanale",
-      "description": "descrizione",
+      "description": "descrizione completa",
       "location": "Villa d'Ogna, 24020 Villa d'Ogna BG, Italia",
       "start": {
         "dateTime": "2025-04-21T21:00:00+02:00",
